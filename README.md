@@ -12,7 +12,7 @@ leaves the president's mouth.</p>
 of course.</p>
 <ol type="1">
   <li>The Biden administration spent $8 million <a href="https://www.indy100.com/politics/trump/donald-trump-transgender-mice-speech-trending-memes">
-making mice transgender</>
+making mice transgender</a>
 In Trump’s first joint address since taking office in January, he praised his own stance on 
 DEI (diversity, equity and inclusion) initiatives, tax cuts and trade tariffs. But, viewers 
 were quick to point out the moment that saw the president claim that the Biden administration 
