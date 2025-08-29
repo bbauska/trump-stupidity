@@ -1,20 +1,17 @@
-# trump-stupidity
-Scary as it sounds, Andrew Jackson was smarter than this president.
+<h3>LET'S START WITH 25 STUPIDEST THINGS HE'S SAID, THEN WE'LL MOVE ON TO STUPID THINGS HE'S DONE.</h3>
+<cite>America's beloved Commander in Queef</cite>
 
-LET'S START WITH 25 STUPIDEST THINGS HE'S SAID, THEN WE'LL MOVE ON TO STUPID THINGS HE'S DONE.
-America's beloved Commander in Queef
+<p>Whether you love him or hate him, Donald Trump is undoubtedly unafraid to speak his mind - 
+even if it means getting ridiculed mercilessly by the internet.</p>
 
-Whether you love him or hate him, Donald Trump is undoubtedly unafraid to speak his mind - 
-even if it means getting ridiculed mercilessly by the internet.
-
-From the invention of "covfefe" (does anyone know what that is yet?), to the claim that you 
+<p>From the invention of "covfefe" (does anyone know what that is yet?), to the claim that you 
 "can't be too greedy" (and don't we know it), there's truly no shortage of comedy gold that 
-leaves the president's mouth.
+leaves the president's mouth.</p>
 
-So, naturally, we've rounded up the 25 stupidest things Donald Trump has ever said... subjectively, 
-of course.
-
-1. The Biden administration spent $8 million <a href="https://www.indy100.com/politics/trump/donald-trump-transgender-mice-speech-trending-memes">
+<p>So, naturally, we've rounded up the 25 stupidest things Donald Trump has ever said... subjectively, 
+of course.</p>
+<ol type="1">
+  <li>The Biden administration spent $8 million <a href="https://www.indy100.com/politics/trump/donald-trump-transgender-mice-speech-trending-memes">
 making mice transgender</>
 In Trump’s first joint address since taking office in January, he praised his own stance on 
 DEI (diversity, equity and inclusion) initiatives, tax cuts and trade tariffs. But, viewers 
@@ -25,9 +22,8 @@ The comment drew laughs from those in the audience, as well as online, as people
 Trump appeared to be confusing it with “transgenic mice”.
 
 Making mice transgenic is a revolutionary process by which scientists add human cells to mice 
-to enable them to more accurately study the effect of disease on human tissues.
-
-2. <a href="https://www.indy100.com/politics/trump/donald-trump-spain-bric-nation-2670974952">
+to enable them to more accurately study the effect of disease on human tissues.</li>
+<li><a href="https://www.indy100.com/politics/trump/donald-trump-spain-bric-nation-2670974952">
 Spain is reportedly a ‘BRICS’ country</a>
 In his first major blunder since becoming president for the second time, Trump claimed that 
 Spain is a ‘BRICS’ country during a press conference, where he was asked about defence spending 
@@ -40,8 +36,8 @@ BRICS refers to a bloc of 10 developing economies, including Brazil, Russia, Ind
 and South Africa, of which no EU member nation is a part.
 
 Expand article logo  Continue reading
-
-3. <a href="https://www.indy100.com/politics/trump/donald-trump-washington-dc-plane-crash-dei">
+</li>
+<li><a href="https://www.indy100.com/politics/trump/donald-trump-washington-dc-plane-crash-dei">
 Blaming Washington plane crash on DEI</a>
 Following the tragic plane crash between a helicopter and an American Airlines flight in 
 Washington DC in January 2025, Trump took the opportunity to blame diversity and inclusion.
@@ -59,8 +55,8 @@ of ensuring safe and efficient travel'. I don't think so. I don't think so. I th
 just the opposite."
 
 The comments were met with backlash.
-
-4. He won’t deport Prince Harry because <a href="https://www.indy100.com/politics/trump/trump-prince-harry-meghan-markle">“he’s got 
+</li>
+<li>He won’t deport Prince Harry because <a href="https://www.indy100.com/politics/trump/trump-prince-harry-meghan-markle">“he’s got 
 enough problems with Meghan”</a>
 When Trump vowed to introduce mass deportations should he become president, he was quizzed 
 on the fate of British royal Prince Harry. However, it looks like Harry’s all good for now, 
@@ -79,8 +75,8 @@ mass transit system.
 
 New York governor Kathy Hochul, simply responded: “We are a nation of laws, not ruled 
 by a king. We’ll see you in court.”
-
-4. <a href="https://www.indy100.com/politics/trump/donald-trump-denmark-greenland">
+</li>
+<li><a href="https://www.indy100.com/politics/trump/donald-trump-denmark-greenland">
 Trump says Denmark “doesn’t have right” to Greenland</a>, despite it belonging to them
 The US is involved in an ongoing dispute over Greenland as Trump wants the land to 
 be America’s, even claiming that Denmark doesn’t have the “right” to the country - 
@@ -97,8 +93,8 @@ annexing us."
 “Enough is enough,” he added and shared his plans to organise a meeting of the chairmen 
 of all Greenland’s political parties “as soon as possible” to discuss Trump’s latest 
 remarks. Yikes.
-
-5. <a href="https://www.indy100.com/news/donald-trump-lie-are-egg-prices-down">Claims egg 
+</li>
+<li><a href="https://www.indy100.com/news/donald-trump-lie-are-egg-prices-down">Claims egg 
 prices have dropped 30 per cent in a week</a> - they went up 28 per cent since he took 
 office Donald Trump bending the truth? There’s just no way. Except, he did just claim 
 US egg prices went down 30 per cent in one week alone, when they’ve actually gone up 
@@ -110,8 +106,8 @@ said during a press conference on 12 March.
 
 Even Serena Williams' former coach Rennae Stubbs chimed in on the action, writing: 
 "This dude lies as much as he draws breath."
-
-6. Jabs at Zelensky that he’s <a href="https://www.indy100.com/news/elon-musk-donald-trump-zelensky-suit">
+</li>
+<li>Jabs at Zelensky that he’s <a href="https://www.indy100.com/news/elon-musk-donald-trump-zelensky-suit">
 ‘all dressed up’</a> while wearing military-style uniform. Everyone remembers that infamous 
 White House meeting between Donald Trump and President Zelensky when they sought to find a 
 peace solution between Ukraine and Russia - but it would seem things were never going to 
@@ -123,9 +119,8 @@ Ukrainian president with a comment, saying: "Oh look, you’re all dressed up."
 Zelensky was seen dressed in a black, long-sleeved polo shirt featuring the Ukrainian 
 trident, which Vance would later go on to criticise, as he’d chosen not to wear a suit. 
 The Ukrainian has not worn a suit since Russia’s invasion began, and instead opted for 
-a uniform likened to his soldiers.
-
-7. <a href="https://www.indy100.com/politics/trump/donald-trump-canada-mexico-trade-deal">
+a uniform likened to his soldiers.</li>
+<li><a href="https://www.indy100.com/politics/trump/donald-trump-canada-mexico-trade-deal">
 Donald Trump asks who signed deal with Mexico and Canada</a> (he did)
 Trade tariffs continue to be a hot topic for US president Donald Trump, but when he tried 
 to play the blame game it ultimately backfired, after social media users pointed out an 
@@ -143,9 +138,8 @@ aspect that you could imagine they took advantage of," he said.
 The tariffs will go forward, yes. We’ll make up a lot of territory. Our country will 
 be liquid and rich again."
 
-It was Trump who signed “those things”.
-
-8. <a href="https://www.indy100.com/news/can-trump-run-for-a-third-term-president-explained">
+It was Trump who signed “those things”.</li>
+<li><a href="https://www.indy100.com/news/can-trump-run-for-a-third-term-president-explained">
 Trump drops hint he’ll run for third term</a> - despite it being illegal
 
 When he made it back into office for a second time, Trump was already setting his sights on 
@@ -165,8 +159,8 @@ term to which some other person was elected President shall be elected to the of
 the President more than once," it reads according to the National Constitution Center.
 
 However, he's since backtracked (as of May 2025) and says he's "not looking" at running again.
-
-9. Vows to <a href="https://www.indy100.com/politics/trump/donald-trump-plastic-straws-2671150178">
+</li>
+<li>Vows to <a href="https://www.indy100.com/politics/trump/donald-trump-plastic-straws-2671150178">
 bring back plastic straws because paper ones ‘explode in minutes’</a>
 While we’re often torn on whether we love the planet or being able to drink a Diet Coke 
 in peace more, Trump has made his feelings about the plastic straw ban clear - and vowed 
@@ -183,8 +177,8 @@ Trump doesn't seem too concerned about plastic straws polluting the planet and t
 
 The president added: “I don’t think that plastic is going to affect the shark very much 
 as they’re ... munching their way through the ocean".
-
-10. <a href="https://www.indy100.com/politics/trump/donald-trump-windmills-whales">
+</li>
+<li><a href="https://www.indy100.com/politics/trump/donald-trump-windmills-whales">
 Donald Trump isn’t a fan of windmills</a>
 Trump hates a lot of those things, and who knew one of those things would be windmills? 
 The 78-year-old described the wind farms as "garbage" and said that when in office, his 
@@ -195,8 +189,8 @@ Massachusetts area with the whales … The windmills are driving the whales craz
 
 This is a topic Trump has been vocal about during his presidential election campaign 
 as he pledged the number of wind farms would be slashed if reelected.
-
-11. <a href="https://www.indy100.com/politics/trump/donald-trump-american-citizenship-bizarre">
+</li>
+<li><a href="https://www.indy100.com/politics/trump/donald-trump-american-citizenship-bizarre">
 Trump shares bizarre take on how citizenship works</a>
 Donald Trump is infamous for saying completely outrageous remarks, making dubious 
 decisions and just generally things that make you go: "Eh?"
@@ -216,8 +210,8 @@ it, you know. You know we're the only country that has it."
 Trump here is seemingly describing an outrageous scenario where a woman would give birth 
 to an infant that could have one foot in America and another in another country like 
 Mexico and Canada.
-
-12. <a href="https://www.indy100.com/politics/trump/donald-trump-liz-cheney-tucker">
+</li>
+<li><a href="https://www.indy100.com/politics/trump/donald-trump-liz-cheney-tucker">
 Trump fantasises about Liz Cheney being shot</a>
 At a time where gender-based violence is rife, it’s actually rather shocking that 
 Donald Trump once publicly fantasised about Liz Cheney being shot.
@@ -228,9 +222,8 @@ individual” and a “radical war hawk”.
 
 “Let’s put her with a rifle standing there with nine barrels shooting at her, let’s 
 see how she feels about it. You know, when the guns are trained on her face,” he 
-said. Yikes.
-
-13. <a href="https://www.indy100.com/politics/trump/donald-trump-us-garbage-can">
+said. Yikes.</li>
+<li><a href="https://www.indy100.com/politics/trump/donald-trump-us-garbage-can">
 Trump brands the US ‘a garbage can’</a>
 Trump’s signature slogan ‘Make America Great Again’ didn’t come from nowhere - and it 
 makes sense given that he made his feelings about the state of the US under Joe Biden 
@@ -240,8 +233,8 @@ Speaking in Tempe while on his campaign trail, Trump said: “We’re like a gar
 you know, it’s the first time I’ve ever said that, and every time I come up and talk 
 about what they’ve done to our country, I get angry. First time I’ve ever said garbage 
 can, but you know what, it’s a very accurate description.”
-
-14. <a href="https://www.indy100.com/politics/trump/donald-trump-harris-pennsylvania-rally">
+</li>
+<li><a href="https://www.indy100.com/politics/trump/donald-trump-harris-pennsylvania-rally">
 Trump brands Harris a ’s***’ vice president</a>
 Before being re-elected as president, it was clear Trump was willing to do anything to 
 secure his second term - even if that meant making his feelings about the current 
@@ -253,8 +246,8 @@ using rather colourful language.
 
 He told his supporters: “We have to tell Kamala Harris that you’ve had enough, that you 
 just can’t take it anymore. We can’t stand you, you’re a s*** vice president. The worst.”
-
-15. <a href="https://www.indy100.com/politics/trump/donald-trump-michigan-rally-speech">
+</li>
+<li><a href="https://www.indy100.com/politics/trump/donald-trump-michigan-rally-speech">
 Trump takes aim at ‘fat husbands’ as he tries to win over voters</a>
 By October 2024, Trump had done a number of rallies on his campaign trail, and frankly, 
 must have been clutching at straws to win over voters.
@@ -270,8 +263,8 @@ he told the crowd.
 
 “’Time to go and vote for Trump, he’s going to save our country’ … Get him up, Jill. Slap him 
 around, get him up!”
-
-16. <a href="https://www.indy100.com/politics/trump/donald-trump-father-of-ivf">
+</li>
+<li><a href="https://www.indy100.com/politics/trump/donald-trump-father-of-ivf">
 Trump claims he’s the ‘father’ of IVF</a>
 Donald Trump labelled himself the “father of IVF” in an awkward moment in front of an 
 all-female audience of voters, as he attempted to win them over in the 2024 election.
@@ -285,8 +278,8 @@ for an answer.
 
 Vice-President Kamala Harris, who was also running for president, called the comment “quite 
 bizarre”.
-
-17. <a href="https://www.indy100.com/politics/trump/donald-trump-pennsylvania-rally-supporter-killed-joke">
+</li>
+<li><a href="https://www.indy100.com/politics/trump/donald-trump-pennsylvania-rally-supporter-killed-joke">
 Trump makes joke about supporter being killed at Pennsylvania rally</a>
 Donald Trump made a joke at a private fundraiser referencing the widow of Corey Comperatore, 
 the supporter who was killed during the assassination attempt on Trump in Butler, Pennsylvania 
@@ -305,8 +298,8 @@ she said, 'this is so nice, and I appreciate it, but I'd much rather have my hus
 
 "I know at least four couples. There are four couples, Governor [Abbott], that I know 
 and you're not one of them. At least four couples here would have been thrilled, actually."
-
-18. <a href="https://www.indy100.com/politics/trump/donald-trump-the-purge-crime">
+</li>
+<li><a href="https://www.indy100.com/politics/trump/donald-trump-the-purge-crime">
 Donald Trump says a day like The Purge would ‘curb crime’</a>
 During the election campaign, Trump said giving police "one really violent day" to 
 tackle crime such as theft from stores would help to stop people stealing in what's 
@@ -319,8 +312,8 @@ primarily the fault of migrants.
 He went on to say this could be dealt with in a way similar to the dystopian action horror 
 film series The Purge where all crime, even murder, is legal for a 12-hour period. Not a 
 wise choice, if you ask us.
-
-21. <a href="https://www.indy100.com/politics/trump/trump-change-name-ai-artificial-intelligence">
+</li>
+<li><a href="https://www.indy100.com/politics/trump/trump-change-name-ai-artificial-intelligence">
 Trump wants to rename AI - and his suggestion makes no sense</a>
 Donald Trump doesn't like artificial intelligence... well, the name at least, as he bizarrely 
 requested for AI to be called something else.
@@ -336,8 +329,8 @@ I can’t stand it. I don’t even like the name,” Trump said, tossing his han
 "It’s not artificial. It’s genius. It’s pure genius," he said of the developing technology.
 
 We're not sure that one will catch on.
-
-22. Donald Trump expects another 'thank you' for doing the right thing
+</li>
+<li>Donald Trump expects another 'thank you' for doing the right thing
 
 Following a bust-up over Ukraine, it seems Trump expects another ‘thank you’ for helping 
 a warzone – this time concerning the ongoing devastation in Gaza.
@@ -354,8 +347,8 @@ you do that.
 have at least a thank you.”
 
 How very charitable.
-
-23. <a href="https://www.indy100.com/politics/trump/trump-claims-to-be-only-president-to-donate-his-salary-and-everyone-is-saying-the-same-thing">Trump claims he's the only president ever to have donated 
+</li>
+<li><a href="https://www.indy100.com/politics/trump/trump-claims-to-be-only-president-to-donate-his-salary-and-everyone-is-saying-the-same-thing">Trump claims he's the only president ever to have donated 
 his salary</a>
 Donald Trump has made a wild claim about his presidential salary, but everyone is 
 saying the same thing.
@@ -374,11 +367,11 @@ and also made billions while in office.
 
 According to the tracking website Did Trump Golf Today?, 24.5 per cent of Trump’s presidency 
 has been spent golfing.
-
-24. <a href="https://www.indy100.com/politics/trump/donald-trump-bizarre-rant-grass">This 
+</li>
+<li><a href="https://www.indy100.com/politics/trump/donald-trump-bizarre-rant-grass">This 
 bizarre rant about grass</a>
-
-25. <a href="https://www.indy100.com/politics/trump/trump-maths-drug-prices-claim">Not 
+</li>
+<li><a href="https://www.indy100.com/politics/trump/trump-maths-drug-prices-claim">Not 
 understanding how prices work</a>
 
 Donald Trump's maths is coming under scrutiny once again following his latest claim about 
@@ -395,6 +388,6 @@ criticised as they schooled the commander-in-chief that his calculations would m
 Americans would be paid to receive their medication.
 
 <a href="https://www.indy100.com/politics/trump/trump-paving-over-rose-garden-reaction">
-Paved over the Rose Garden.</a> You fucking Kunt DJT! TACO fuck. Coward!!!
-
+Paved over the Rose Garden.</a> You fucking Kunt DJT! TACO fuck. Coward!!!</li>
+</ol>
 
